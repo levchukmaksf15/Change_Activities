@@ -1,0 +1,2 @@
+rootProject.name='Change_Activities_Project'
+include ':app'
